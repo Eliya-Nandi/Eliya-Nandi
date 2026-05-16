@@ -1,5 +1,5 @@
 # Hi there, I'm Eliya Christopher Nandi 👋
-## Data Scientist | AI & Machine Learning Enthusiast | Data-Driven Problem Solver
+## Data Scientist | AI & Machine Learning Enthusiast 
 
 I enjoy working with data — cleaning it, questioning it, modeling it, visualizing it and sometimes arguing with it until it finally tells the truth.
 
