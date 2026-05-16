@@ -1,4 +1,4 @@
-# Hi there, I'm Eliya Christopher Nandi 👋
+# Hi there, I'm Eliya Christopher Nandi <img src="https://img.shields.io/badge/%E2%99%8E-Libra-FFD700?style=flat-square&labelColor=FFD700&color=FFD700" height="24" alt="Libra" />
 
 ## Data Scientist | AI & Machine Learning Enthusiast | Data-Driven Problem Solver
 
