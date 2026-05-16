@@ -2,12 +2,12 @@
 
 ## Data Scientist | AI & Machine Learning Enthusiast | Data-Driven Problem Solver
 
-I enjoy working with data — cleaning it, questioning it, modeling it, visualizing it, and sometimes arguing with it until it finally tells the truth.
+I enjoy working with data — cleaning it, questioning it, modeling it, visualizing it and sometimes arguing with it until it finally tells the truth.
 
-- 📊 Passionate about **Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Predictive Modeling, Data Mining, Natural Language Processing, Statistical Learning, and Data Visualization**
-- 🔍 Focused on turning raw data into meaningful insights
-- 🤖 Interested in building intelligent models that solve practical problems
-- 💡 Motivated by creating data-driven solutions that support better decision-making
+📊 Passionate about **Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Predictive Modeling, Data and Text Mining, Natural Language Processing, Statistical Learning and Data Visualization**
+🔍 Focused on turning raw data into meaningful insights
+🤖 Interested in building intelligent models that solve practical problems
+💡 Motivated by creating data-driven solutions that support better decision-making
 
 ---
 
