@@ -1,7 +1,7 @@
 # Hi there, I'm Eliya Christopher Nandi 👋
 ## Data Scientist | AI & Machine Learning Enthusiast 
 
-I enjoy working with data — cleaning it, questioning it, modeling it, visualizing it and sometimes arguing with it until it finally tells the truth.
+I enjoy working with data to uncover patterns, build intelligent models and create AI-driven solutions with real-world impact.
 
 📊 Passionate about **Data Science, Artificial Intelligence, Machine Learning, Deep Learning, Predictive Modeling, Data and Text Mining, Natural Language Processing, Statistical Learning, and Data Visualization**  
 🔍 Focused on turning raw data into meaningful insights  
